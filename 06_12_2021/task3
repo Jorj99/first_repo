@@ -1,0 +1,4 @@
+Task 3
+Specify a command to remove every file in a directory with .txt extension.
+
+rm -r *.txt

@@ -1,0 +1,8 @@
+Task 1
+ Install the package from the following url (https://drive.google.com/uc?id=1WsagOqZaGm7gWDt1Q54ol7ucLphy8XPA&export=download) (use commands: wget, tar,  dpkg)
+
+dpkg -i uc?id=1WsagOqZaGm7gWDt1Q54ol7ucLphy8XPA
+sudo apt install xz-utils
+tar -xf  /home/jorj/Desktop/popap/uc?id=1WsagOqZaGm7gWDt1Q54ol7ucLphy8XPA
+sudo dpkg -i opera-stable_82.0.4227.23_amd64.deb 
+

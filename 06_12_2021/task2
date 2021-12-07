@@ -1,0 +1,65 @@
+Task 2
+Create new directory with the files including (with simple file contents) and play with the directory permissions. Provide the commands list to show how directory permission work. Provide different configurations (r, w, x, rw, rx, wx).
+
+
+
+I am writing information for the user but you can repeat this for the group and owner.
+
+
+chmod 077 task2
+
+read -
+write -
+execute -
+
+
+
+chmod 177 task2
+
+read -
+write -
+execute +
+
+
+
+chmod 277 task2
+
+read -
+write +
+execute -
+
+
+
+chmod 377 task2
+
+read -
+write +
+execute +
+
+
+chmod 477 task2
+
+read +
+write -
+execute -
+
+
+chmod 577 task2
+
+read +
+write -
+execute +
+
+
+chmod 677 task2
+
+read +
+write +
+execute -
+
+
+chmod 777 task2
+
+read +
+write +
+execute +
